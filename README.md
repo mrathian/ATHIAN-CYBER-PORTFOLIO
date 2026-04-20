@@ -14,15 +14,15 @@ Passionate about offensive and defensive security. Focused on practical skills t
 - **Exploitation**: Metasploit, Burp Suite
 - **Analysis**: Wireshark, tcpdump
 - **Scripting**: Python, Bash
-- **Platform**: Kali Linux, Ubuntu
+
 
 ## Featured Projects
 
-### 1. Project Name (e.g. Network Vulnerability Scan)
-Brief description (1–2 sentences).  
-**Tools**: Nmap, Nessus  
-**Key Outcome**: What you found or achieved.  
-→ [View Project Folder](./projects/network-scan)
+### 1. Network Vulnerability Assessment Lab
+Performed full network scan and vulnerability assessment on a virtual lab environment.  
+**Tools**: Nmap, OpenVAS  
+**Key Outcome**: Identified 12 high-severity vulnerabilities.  
+→ [View Project Folder](./projects/network-vuln-scan)
 
 ### 2. Project Name 2
 Brief description...  
@@ -33,13 +33,13 @@ Brief description...
 ## Certifications
 
 - Google Cybersecurity Professional Certificate (2025)
-- [Add others]
+
 
 ## Connect
 
 - GitHub: [@athiannmou_](https://github.com/athiannmou_)
 - IG: [@athiannmou_](https://x.com/athiannmou_)
-- LinkedIn: [Add link]
+  
 
 ---
 
