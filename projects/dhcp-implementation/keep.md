@@ -1,3 +1,0 @@
-# Keep file
-
-This file ensures the folder is tracked by Git.
